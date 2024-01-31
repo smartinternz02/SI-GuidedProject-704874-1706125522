@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Musical Showpiece is perfect for home she_f1d1b1</name>
+   <tag></tag>
+   <elementGuidId>eac5245e-2252-4619-9e25-81fe9b9d65ba</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.term-description > p</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main']/header/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>07b13925-b729-46ac-be83-077211c314a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Musical Showpiece is perfect for home shelves, as a decorative piece for your living room, or as a new addition to your tabletop. We have a huge collection of decorative items with best quality at great price. Each showpiece have unique and eye-catchy.</value>
+      <webElementGuid>7266c232-4b9f-478a-83d3-3a84fca158ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/header[@class=&quot;woocommerce-products-header&quot;]/div[@class=&quot;term-description&quot;]/p[1]</value>
+      <webElementGuid>d932c27b-50c9-4191-ad37-e0a26d7d3d17</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main']/header/div/p</value>
+      <webElementGuid>dcc3cc59-e432-4f55-a2c2-83f193eabd93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//header/div/p</value>
+      <webElementGuid>9c865f05-819b-4fe3-869b-4b286131f11e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Musical Showpiece is perfect for home shelves, as a decorative piece for your living room, or as a new addition to your tabletop. We have a huge collection of decorative items with best quality at great price. Each showpiece have unique and eye-catchy.' or . = 'Musical Showpiece is perfect for home shelves, as a decorative piece for your living room, or as a new addition to your tabletop. We have a huge collection of decorative items with best quality at great price. Each showpiece have unique and eye-catchy.')]</value>
+      <webElementGuid>571bc2af-3614-481a-9186-5f82e041e8fb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

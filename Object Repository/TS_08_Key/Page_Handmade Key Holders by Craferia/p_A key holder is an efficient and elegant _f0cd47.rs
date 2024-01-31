@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_A key holder is an efficient and elegant _f0cd47</name>
+   <tag></tag>
+   <elementGuidId>8506ba0d-0a60-41f9-8e3e-b2e88a069c28</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.term-description > p</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main']/header/div/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>c6d84a60-89f6-47e6-8b8b-93c9aebdb6f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>A key holder is an efficient and elegant way to store your keys. Made with metal, this key holder will last for years to come and will make a wonderful addition to any home. The metal key holder makes a great gift idea for a friend or family member. They have 100+ designs available with showpiece decor as well. Each design represents Indian culture and the natural beauty of the country.</value>
+      <webElementGuid>e23a87b0-e303-48ff-8117-6882866d2eee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/header[@class=&quot;woocommerce-products-header&quot;]/div[@class=&quot;term-description&quot;]/div[@class=&quot;term-description&quot;]/p[1]</value>
+      <webElementGuid>738b8339-27eb-440f-bfb2-1d8344bb4d70</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main']/header/div/div/p</value>
+      <webElementGuid>0fde9b31-7879-406e-a658-66a19b490748</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//header/div/div/p</value>
+      <webElementGuid>4a24a141-dc57-42dc-baea-15dd860fcf8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'A key holder is an efficient and elegant way to store your keys. Made with metal, this key holder will last for years to come and will make a wonderful addition to any home. The metal key holder makes a great gift idea for a friend or family member. They have 100+ designs available with showpiece decor as well. Each design represents Indian culture and the natural beauty of the country.' or . = 'A key holder is an efficient and elegant way to store your keys. Made with metal, this key holder will last for years to come and will make a wonderful addition to any home. The metal key holder makes a great gift idea for a friend or family member. They have 100+ designs available with showpiece decor as well. Each design represents Indian culture and the natural beauty of the country.')]</value>
+      <webElementGuid>47c7a759-9f58-4f61-ac3d-8aa643e3bb9f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

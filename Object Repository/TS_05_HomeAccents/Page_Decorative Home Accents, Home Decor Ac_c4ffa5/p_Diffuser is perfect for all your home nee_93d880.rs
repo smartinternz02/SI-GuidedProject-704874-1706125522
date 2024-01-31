@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Diffuser is perfect for all your home nee_93d880</name>
+   <tag></tag>
+   <elementGuidId>1cd64c0c-a1aa-488c-a35f-e6cd1a0f169b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.term-description > p</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main']/header/div/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>9686e3fd-8ef5-4e8d-a980-d6e5f722c0e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Diffuser is perfect for all your home needs. It is made of ceramic and electric with vintage granite white color. This diffuser is perfect for dining room, living room, bedroom, kitchen, bathroom and other places where you need natural smell diffusion. The ceramic diffuser will not heat up like other diffusers and will not flow dangerous fumes around your room.</value>
+      <webElementGuid>6cff9620-64e8-4c35-a112-e42c5fc26cab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/header[@class=&quot;woocommerce-products-header&quot;]/div[@class=&quot;term-description&quot;]/div[@class=&quot;term-description&quot;]/p[1]</value>
+      <webElementGuid>9e4d581b-a02e-4366-9629-aeece84e2d7a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main']/header/div/div/p</value>
+      <webElementGuid>79e46116-45cc-4c75-ab25-fb842cca5ee0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//header/div/div/p</value>
+      <webElementGuid>00a45c8f-fc56-4614-8026-e1a653d65ccb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Diffuser is perfect for all your home needs. It is made of ceramic and electric with vintage granite white color. This diffuser is perfect for dining room, living room, bedroom, kitchen, bathroom and other places where you need natural smell diffusion. The ceramic diffuser will not heat up like other diffusers and will not flow dangerous fumes around your room.' or . = 'Diffuser is perfect for all your home needs. It is made of ceramic and electric with vintage granite white color. This diffuser is perfect for dining room, living room, bedroom, kitchen, bathroom and other places where you need natural smell diffusion. The ceramic diffuser will not heat up like other diffusers and will not flow dangerous fumes around your room.')]</value>
+      <webElementGuid>2b72b919-f85d-46b8-aae2-4ec95a10a789</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

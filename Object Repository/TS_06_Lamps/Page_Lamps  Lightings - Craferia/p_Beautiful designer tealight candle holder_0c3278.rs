@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Beautiful designer tealight candle holder_0c3278</name>
+   <tag></tag>
+   <elementGuidId>de2b97e6-dd40-4c78-94be-d35453e7413a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.term-description > p</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main']/header/div/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>04842bdd-c615-4d30-b932-9f80519bfd25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Beautiful designer tealight candle holder is a perfect gift for your loved ones. The metal handcrafted product is made of pure copper that is sturdy and luxurious at the same time. The design is eye-catching and will add a special touch to your living room.</value>
+      <webElementGuid>cd0cd418-88a5-412f-bba1-856877644169</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/header[@class=&quot;woocommerce-products-header&quot;]/div[@class=&quot;term-description&quot;]/div[@class=&quot;term-description&quot;]/p[1]</value>
+      <webElementGuid>f57d855a-82f1-4a74-9829-16055c3a692a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main']/header/div/div/p</value>
+      <webElementGuid>5867c46a-6b9c-42ed-9b81-d498d54e3f97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//header/div/div/p</value>
+      <webElementGuid>d60761ba-f2c5-4782-a3ee-03f93aa536a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Beautiful designer tealight candle holder is a perfect gift for your loved ones. The metal handcrafted product is made of pure copper that is sturdy and luxurious at the same time. The design is eye-catching and will add a special touch to your living room.' or . = 'Beautiful designer tealight candle holder is a perfect gift for your loved ones. The metal handcrafted product is made of pure copper that is sturdy and luxurious at the same time. The design is eye-catching and will add a special touch to your living room.')]</value>
+      <webElementGuid>3f5db91d-fcf2-4ab2-ac79-368bf5322ce0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Explore our wide range of products and di_f20893</name>
+   <tag></tag>
+   <elementGuidId>758e5a06-004c-40a6-bcf8-f2a9cf762e26</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.term-description > p</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main']/header/div/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>52765b61-d029-4525-8f14-3e7a739dc58f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Explore our wide range of products and discover your perfect gift for your loved ones. We offer a wide variety of metal wall decor products to choose as a perfect gift. Our collection includes wall arts, Wall hanging, shelves, home decor, frames, and much more. Our products are made of high quality metal, handcrafted with traditional ethnic looks and multi-colours.</value>
+      <webElementGuid>c9e39c2a-4ff3-43e1-92a8-1da1b2a9f37b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/header[@class=&quot;woocommerce-products-header&quot;]/div[@class=&quot;term-description&quot;]/div[@class=&quot;term-description&quot;]/p[1]</value>
+      <webElementGuid>1e872066-95ed-4a5e-a610-b7b24fa28a60</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main']/header/div/div/p</value>
+      <webElementGuid>f94ed450-07c2-457b-a895-8b486b1c54f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//header/div/div/p</value>
+      <webElementGuid>5a850255-e045-4842-8245-8b665eec69e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Explore our wide range of products and discover your perfect gift for your loved ones. We offer a wide variety of metal wall decor products to choose as a perfect gift. Our collection includes wall arts, Wall hanging, shelves, home decor, frames, and much more. Our products are made of high quality metal, handcrafted with traditional ethnic looks and multi-colours.' or . = 'Explore our wide range of products and discover your perfect gift for your loved ones. We offer a wide variety of metal wall decor products to choose as a perfect gift. Our collection includes wall arts, Wall hanging, shelves, home decor, frames, and much more. Our products are made of high quality metal, handcrafted with traditional ethnic looks and multi-colours.')]</value>
+      <webElementGuid>5ce688a3-eced-4c2c-8c80-6d71249c0af5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
